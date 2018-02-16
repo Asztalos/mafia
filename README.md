@@ -1,0 +1,2 @@
+# mafia
+A roleplaying game
