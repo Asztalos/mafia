@@ -1,0 +1,14 @@
+body {
+	background-color: #e6e6e6;
+	font-family: sans-serif;
+}
+h1 {
+	font-size: 3em;
+	color: teal;
+}
+.wrapper {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 10px;
+  grid-auto-rows: minmax(100px, auto);
+}
